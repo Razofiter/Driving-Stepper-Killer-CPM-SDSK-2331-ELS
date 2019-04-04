@@ -23,12 +23,12 @@ The code was tested on stm32f103C8T. The following should be highlighted:
             Target DLL:             STLink\ST-LINKIII-KEIL_SWO.dll      V2.0.15.0_KEIL
             Dialog DLL:         TCM.DLL              V1.14.5.0
             
-STM32CubeMX:
+- STM32CubeMX:
             Version 4.24.0
             STM32Cube V1.0
             Copyright(c) 2010-2018 STMicroelectronics
             
-TERMINAL.EXE:
+- TERMINAL.EXE:
             to send/receive USB messages to/from the driver board. Other serial COM port apllications can be used, like                               TeraTerm, Putty, etc.
 
 
