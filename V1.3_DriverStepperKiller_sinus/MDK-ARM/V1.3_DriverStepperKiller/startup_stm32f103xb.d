@@ -1,0 +1,1 @@
+v1.3_driverstepperkiller\startup_stm32f103xb.o: startup_stm32f103xb.s
