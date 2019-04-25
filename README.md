@@ -1,10 +1,10 @@
 # Driving-Stepper-Killer-CPM-SDSK-2331S-ELS
 This project is intended to drive the servomotor CPM-SDSK-2331-ELS using a prototyped board, based on the microcontroller stm32f103C8T.
 The code was tested on stm32f103C8T. The following should be highlighted:
-- HARDWARE: prototype board that acts as driver for the servomotor(picture will be added soon...)
+- HARDWARE: prototype board that acts as driver for the servomotor(see the video in the "Video" folder)
             12 V, 1A power supply for the prototyped board that is accting as driver for the servomotor
-            servomotor CPM-SDSK-2331S-ELS (see: https://www.teknic.com/model-info/CPM-SDSK-2331S-ELS/)
-            recommended power supply for the servomotor - IPC-5 (see: https://www.teknic.com/IPC-5/)
+            servomotor [CPM-SDSK-2331S-ELS] ( https://www.teknic.com/model-info/CPM-SDSK-2331S-ELS/)
+            recommended power supply for the servomotor - [IPC-5] (https://www.teknic.com/IPC-5/)
             
 - SOFTWARE: IDE-Version:
 
@@ -28,10 +28,12 @@ The code was tested on stm32f103C8T. The following should be highlighted:
             STM32Cube V1.0
             Copyright(c) 2010-2018 STMicroelectronics
             
-- TERMINAL.EXE:
-            to send/receive USB messages to/from the driver board. Other serial COM port apllications can be used, like                               TeraTerm, Putty, etc.
 
 
-This file will be updated in the future....
+
+This README file will be update in the future...
 
 P.S.: The project is under development
+
+## Contact information 
+* razvan.mihai@mta.ro
